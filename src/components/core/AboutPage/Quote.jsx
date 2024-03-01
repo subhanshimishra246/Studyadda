@@ -16,6 +16,7 @@ const Quote = () => {
             unparalleled educational
         experience.
         </span> 
+        <button className=''><a href="https://mediafiles.botpress.cloud/6355ef71-857b-438f-8fef-af8ea9944a7d/webchat/bot.html">Chat with AI</a></button>
     </div>
   )
 }
