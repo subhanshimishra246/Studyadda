@@ -99,6 +99,9 @@ function ReviewSlider() {
           })}
           {/* <SwiperSlide>Slide 1</SwiperSlide> */}
         </Swiper>
+        <button className='rounded-[8px]  bg-yellow-300 px-[12px] py-[8px] text-richblack-100 border border-yellow-50 bg-transparent" : "bg-yellow-50"
+      } cursor-pointer gap-x-2 rounded-md py-2 px-5 font-semibold text-richblack-900'><a href="https://mediafiles.botpress.cloud/6355ef71-857b-438f-8fef-af8ea9944a7d/webchat/bot.html">Chat with AI</a></button>  
+   
       </div>
     </div>
   )

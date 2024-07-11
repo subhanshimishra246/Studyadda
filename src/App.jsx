@@ -47,9 +47,9 @@ function App() {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
-
+  // bg-richblack-900
   return (
-    <div className="flex min-h-screen w-screen flex-col bg-richblack-900 font-inter">
+    <div className="flex min-h-screen w-screen flex-col   bg-brown-400 font-inter">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />

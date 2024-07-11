@@ -163,11 +163,14 @@ function Navbar() {
           )}
           {token !== null && <ProfileDropdown />}
         </div>
+
         <button className="mr-4 md:hidden">
           <AiOutlineMenu fontSize={24} fill="#AFB2BF" />
         </button>
+
       </div>
     </div>
+
   )
 }
 
